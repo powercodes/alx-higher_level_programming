@@ -5,4 +5,3 @@ if __name__ == "__main__":
     for i in range(0, len(allf)):
         if allf[i][:2] != "__":
             print("{:s}".format(allf[i]))
-
